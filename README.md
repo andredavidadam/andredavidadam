@@ -1,14 +1,10 @@
 # 💫 About Me:
 
-Il mio nome è Andre, sono uno studente di informatica con una forte passione per la tecnologia e l'apprendimento continuo. Ho imparato a programmare molto giovane però solo ora sto frequentando un corso di laurea in informatica presso l'Università degli studi Aldo Moro di bari, dove ho acquisito solide conoscenze teoriche e pratiche nell'ambito dell'informatica.
+My name is Andre, and I am a computer science student with a strong passion for technology and continuous learning. I started learning programming at a young age, but it is only now that I am pursuing a degree in computer science at the University of Aldo Moro in Bari, where I have gained solid theoretical and practical knowledge in the field of computer science.
 
-Durante il mio percorso accademico ho avuto la possibilità di lavorare su diversi progetti, sia individualmente che
-in gruppo, che mi hanno permesso di perfezionare le mie competenze.
-Inoltre ho avuto la possibilita di lavorare come collaboratore nella Azienda Rainweb, dove ho avuto l'opportunità
-di lavorare con un team di sviluppatori esperti e di applicare le mie conoscenze in un contesto professionale nel
-settore web
+Throughout my academic journey, I have had the opportunity to work on various projects, both individually and in groups, which have allowed me to refine my skills. Additionally, I had the chance to work as a collaborator at Rainweb Company, where I had the opportunity to work with a team of experienced developers and apply my knowledge in a professional web industry setting.
 
-Sono una persona molto motivata e sempre alla ricerca di nuove opportunità per migliorare e ampliare le mie capacità. Mi piace lavorare in team e sono sempre disponibile a condividere le mie conoscenze con gli altri. Mi piace essere in compagnia di persone creative e che pensano fuori dalla scatola.
+I am a highly motivated individual who is always seeking new opportunities to improve and expand my abilities. I enjoy working in teams and am always willing to share my knowledge with others. I thrive in the company of creative individuals who think outside the box.
 
 ## 🌐 Socials:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/https://www.linkedin.com/in/andre-alvizuri-1b25a6215) 
