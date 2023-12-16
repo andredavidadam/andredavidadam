@@ -20,7 +20,3 @@ I am a highly motivated individual who is always seeking new opportunities to im
 [![](https://visitcount.itsvg.in/api?id=andredavidadam&icon=0&color=0)](https://visitcount.itsvg.in)
 
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
-
-
-> [!NOTE]
-> esta es una nota
